@@ -1,0 +1,2 @@
+# tinh
+Serving static contents
