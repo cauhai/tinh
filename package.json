@@ -1,0 +1,25 @@
+{
+  "name": "tinh",
+  "version": "1.0.0",
+  "description": "Serving static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauhai/tinh.git"
+  },
+  "keywords": [
+    "static"
+  ],
+  "author": "Hai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cauhai/tinh/issues"
+  },
+  "homepage": "https://github.com/cauhai/tinh#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
